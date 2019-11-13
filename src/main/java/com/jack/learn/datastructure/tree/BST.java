@@ -1,4 +1,4 @@
-package com.jack.learn.datastructure;
+package com.jack.learn.datastructure.tree;
 
 import org.springframework.util.CollectionUtils;
 

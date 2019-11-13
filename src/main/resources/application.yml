@@ -6,3 +6,7 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
 server:
   port: 1111
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  configuration:
+    map-underscore-to-camel-case: true

@@ -1,6 +1,6 @@
 package com.jack.learn.service.impl;
 
-import com.example.h2demo.service.SchedulingService;
+import com.jack.learn.service.SchedulingService;
 import org.springframework.scheduling.annotation.Async;
 import org.springframework.stereotype.Service;
 

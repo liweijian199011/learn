@@ -1,6 +1,6 @@
 package com.jack.learn.controller;
 
-import com.example.h2demo.service.AsyncService;
+import com.jack.learn.service.AsyncService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

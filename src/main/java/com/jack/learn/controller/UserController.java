@@ -4,8 +4,8 @@ package com.jack.learn.controller;
 //import com.dianping.cat.message.Event;
 //import com.dianping.cat.message.Transaction;
 
-import com.example.h2demo.entity.User;
-import com.example.h2demo.service.UserService;
+import com.jack.learn.entity.User;
+import com.jack.learn.service.UserService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

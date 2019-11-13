@@ -1,7 +1,7 @@
 package com.jack.learn.service;
 
-import com.example.h2demo.controller.UserPo;
-import com.example.h2demo.entity.User;
+import com.jack.learn.controller.UserPo;
+import com.jack.learn.entity.User;
 
 import java.util.List;
 

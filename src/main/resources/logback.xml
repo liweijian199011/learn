@@ -43,7 +43,7 @@
         </encoder>
     </appender>
 
-    <!--<appender name="CatAppender" class="com.example.h2demo.config.CatLogbackAppender"></appender>-->
+    <!--<appender name="CatAppender" class="com.jack.learn.config.CatLogbackAppender"></appender>-->
 
     <root level="INFO">
         <!--<appender-ref ref="CatAppender" />-->

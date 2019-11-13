@@ -1,6 +1,7 @@
 package com.jack.learn.mapper;
 
-import com.example.h2demo.entity.User;
+import com.jack.learn.entity.User;
+import org.apache.ibatis.annotations.Mapper;
 
 import java.util.List;
 
@@ -12,6 +13,7 @@ import java.util.List;
  *
  * @author: 李伟健
  */
+@Mapper
 public interface UserMapper {
 
     List<User> selectUserByCondition(User user);
